@@ -1,2 +1,2 @@
 # Kaggel-Datasets
-Learning through kaggel datasets
+Learning through kaggle datasets
